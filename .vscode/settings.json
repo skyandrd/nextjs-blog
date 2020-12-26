@@ -1,0 +1,28 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "left",
+    "editor.renderControlCharacters": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 0,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "tslint.autoFixOnSave": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.jsxBracketSameLine": true,
+    "prettier.requireConfig": true,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {},
+    "editorconfig.generateAuto": true,
+    "prettier.useEditorConfig": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true
+    },    
+}
