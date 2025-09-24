@@ -43,8 +43,8 @@ export function getAllPostIds() {
       params: {
         id: fileName.replace(/\.md$/, '')
       }
-    }
-  })
+    };
+  });
 }
 
 export async function getPostData(id: string) {
